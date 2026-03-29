@@ -1,3 +1,7 @@
+:root {
+    --tile-size: min(10vw, 60px);
+}
+
 .board {
     display: grid;
     position: relative;
